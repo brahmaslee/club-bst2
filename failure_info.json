@@ -1,0 +1,74 @@
+[
+    {
+        "ID": "55814",
+        "SendTime": "2025/5/29 14:07",
+        "MassAge": "[作业失败]:JOB_TO_OBSE_OPERATION_ANALYZE_THEATER_WEEK_I_执行失败！",
+        "MsgStatus": "失败",
+        "Tel": "15671621702",
+        "SendObject": "数仓运维管理群",
+        "SendStatus": "NULL"
+    },
+    {
+        "ID": "55813",
+        "SendTime": "2025/5/29 14:07",
+        "MassAge": "[作业失败]:JOB_TO_OBSE_OPERATION_ANALYZE_THEATER_DATE_I_执行失败！",
+        "MsgStatus": "失败",
+        "Tel": "15671621702",
+        "SendObject": "数仓运维管理群",
+        "SendStatus": "NULL"
+    },
+    {
+        "ID": "55812",
+        "SendTime": "2025/5/29 14:06",
+        "MassAge": "[作业失败]:JOB_TO_OBSE_OPERATION_ANALYZE_HOTEL_WEEK_I_执行失败！",
+        "MsgStatus": "失败",
+        "Tel": "15671621702",
+        "SendObject": "数仓运维管理群",
+        "SendStatus": "NULL"
+    },
+    {
+        "ID": "55404",
+        "SendTime": "2025/5/14 14:01",
+        "MassAge": "[作业失败]:JOB_DATAEXCHAGE_TO_APP_DOWNLOAD_SERVICE_F_执行失败！",
+        "MsgStatus": "失败",
+        "Tel": "15671621702",
+        "SendObject": "数仓运维管理群",
+        "SendStatus": "NULL"
+    },
+    {
+        "ID": "54937",
+        "SendTime": "2025/4/27 10:46",
+        "MassAge": "[作业失败]:JOB_DATAEXCHANGE_TO_OVERVIEW_执行失败！",
+        "MsgStatus": "失败",
+        "Tel": "15671621702",
+        "SendObject": "数仓运维管理群",
+        "SendStatus": "NULL"
+    },
+    {
+        "ID": "54696",
+        "SendTime": "2025/4/18 23:46",
+        "MassAge": "[作业失败]:JOB_COLD_HOME_执行失败！",
+        "MsgStatus": "失败",
+        "Tel": "15671621702",
+        "SendObject": "数仓运维管理群",
+        "SendStatus": "NULL"
+    },
+    {
+        "ID": "54695",
+        "SendTime": "2025/4/18 22:19",
+        "MassAge": "[作业失败]:JOB_COLD_HOME_执行失败！",
+        "MsgStatus": "失败",
+        "Tel": "15671621702",
+        "SendObject": "数仓运维管理群",
+        "SendStatus": "NULL"
+    },
+    {
+        "ID": "54460",
+        "SendTime": "2025/4/10 10:06",
+        "MassAge": "[作业失败]:JOB_DATAEXCHANGE_TO_OVERVIEW_执行失败！",
+        "MsgStatus": "失败",
+        "Tel": "15671621702",
+        "SendObject": "数仓运维管理群",
+        "SendStatus": "NULL"
+    }
+]
